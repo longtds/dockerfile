@@ -1,1 +1,1 @@
-From gcr.io/google_containers/heapster-amd64:v1.4.2
+From gcr.io/google_containers/heapster-amd64:v1.5.0
