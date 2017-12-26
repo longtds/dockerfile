@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/elasticsearch:v5.6.4
+gcr.io/google_containers/elasticsearch:v2.4.1-2
