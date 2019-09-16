@@ -2,16 +2,11 @@
 
 log_level = 2
 
-
 [[http2]]
 
 listen = ":8443"
-
-server_name =
-["test-longtds.apps.ca-central-1.starter.openshift-online.com/"]
-
+server_name =["test-longtds.apps.ca-central-1.starter.openshift-online.com/"]
 proxy_fallback = "file://var/www/html"
-
 pem = """
 
 -----BEGIN RSA PRIVATE KEY-----
