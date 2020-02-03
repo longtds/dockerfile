@@ -1,1 +1,1 @@
-FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
+FROM rancher/hyperkube:v1.15.9-rancher1
